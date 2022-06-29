@@ -1,3 +1,3 @@
 export function Lesson() {
-  return <div></div>;
+  return <div>Lesson</div>;
 }
