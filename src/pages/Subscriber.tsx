@@ -75,7 +75,7 @@ export function Subscriber() {
         </div>
       </div>
 
-      <img src="/src/assets/code-mockup.png" className="mt-10" alt="" />
+      <img src="/src/assets/coud-mockup.png" className="mt-10" alt="" />
     </div>
   );
 }
