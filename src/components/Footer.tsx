@@ -2,11 +2,11 @@ import { LogoFooter } from "./LogoFooter";
 
 export function Footer() {
   return (
-    <footer className="p-8 max-w-[1280px] max-h-[60vh] mx-auto">
+    <footer className="p-1 max-h-[60vh] mx-auto bg-gray-900">
       <div className="w-full h-full flex items-center p-6 border-t border-gray-500 gap-8 ">
         <div className="">
           <LogoFooter />
-        </div>{" "}
+        </div>
         <div className="w-full h-full flex justify-start items-center text-sm text-gray-200">
           Rocketseat - Todos os direitos reservados
         </div>
